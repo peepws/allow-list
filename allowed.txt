@@ -1,0 +1,2 @@
+@@||*.plex.direct^$important
+@@||*.local^$important
