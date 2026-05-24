@@ -1,2 +1,3 @@
+@@|plex.tv^$important
 @@||*.plex.direct^$important
 @@||*.local^$important
